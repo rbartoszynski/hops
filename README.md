@@ -2,6 +2,6 @@ hops
 ====
 Just a modern cd.
 
-![With cd](http://imgur.com/EMZSbib.gif)
+![With cd](http://i.imgur.com/fVSrRju.gif)
 
 
