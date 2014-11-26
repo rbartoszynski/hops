@@ -24,9 +24,13 @@ Enhanced bash via quick file lookup.
     hdir.s some_dir
 
 ##Installation
-For now, it's 'primitive':
+For now, it's 'primitive'.
 1. git clone the repo
+
 2. source hops/functions/functions.f in your .bash_profile
+
 3. add hops/scripts to your PATH
+
 4. ?
+
 5. Profit
