@@ -25,6 +25,7 @@ Enhanced bash via quick file lookup.
 
 ##Installation
 For now, it's 'primitive'.
+
 1. git clone the repo
 
 2. source hops/functions/functions.f in your .bash_profile
